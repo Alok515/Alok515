@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nodejs**
 
-- 📫 How to reach me **kumarsinghalok@gmail.com**
+- 📫 How to reach me **kumarsinghalok28@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny :)**
 
