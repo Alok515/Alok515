@@ -1,31 +1,97 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Singh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Fullstack Developer • Vue.js & TypeScript Specialist • Building Scalable Web Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok515&label=Profile%20views&color=0e75b6&style=flat" alt="alok515" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok515" alt="alok515" /></a> </p>
-
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **React, Nodejs**
-
-- 📫 How to reach me **kumarsinghalok28@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kumar-singh-00972717a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kumar-singh-00972717a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006370421086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006370421086" height="30" width="40" /></a>
-<a href="https://instagram.com/a_l_o_k__s_i_n_g_h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_l_o_k__s_i_n_g_h_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy8ymf-nfz6sy5eqodmtm9a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy8ymf-nfz6sy5eqodmtm9a" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alok515&label=Profile%20views&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok515&show_icons=true&locale=en&layout=compact" alt="alok515" /></p>
+### 🚀 Summary  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok515&show_icons=true&locale=en" alt="alok515" /></p>
+I am a fullstack developer crafting scalable web applications using **Vue 3, TypeScript, Node.js, Express, MongoDB, and modern architectures** such as clean code design, modular structures, and monorepo setups. I specialize in frontend engineering, API development, and performance-driven UI/UX.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok515&" alt="alok515" /></p>
+I write structured, reusable, and robust code with a focus on engineering clarity, maintainability, and production readiness.
+
+---
+
+### 🎯 What I Do
+
+🔹 Build frontend systems using Vue 3, Composition API, Next.js, Tailwind  
+🔹 Design REST APIs and backend logic using Node.js, Express, MongoDB, PostgreSQL  
+🔹 Architect applications using monorepo (pnpm, turborepo), MVC patterns, modular structures  
+🔹 Integrate real-world payment flows, CRM systems, dashboards, authentication, and analytics  
+🔹 Optimize web apps for performance, accessibility, responsiveness, security  
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **Smart CRM Dashboard** | CRM dashboard with payment integration, vouchers, complex data workflows | Vue 3, TypeScript, Node.js, MongoDB, Tailwind, REST APIs | 🔗 Private / Coming Soon |
+| **E-Commerce Monorepo** | Scalable architecture with shared libs, API, and frontend in a pnpm workspace | Vue 3, Express, TS, Redis, pnpm, Turborepo | 🔗 Coming Soon |
+| **Expense Management System** | Financial tracking, Tally-style vouchers, transaction analytics, exportable reports | Vue 3, TypeScript, Python API, PostgreSQL | 🔗 Coming Soon |
+| **DevTools Automation CLI** | CLI tool to auto-generate Vue components and API scaffolds | Node.js, TypeScript, CLI | 🔗 Coming Soon |
+
+> Want to explore a code sample or need demo access? Reach out via LinkedIn or email.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🎨 Frontend  
+Vue.js | Next.js | React | TypeScript | JavaScript | Tailwind | Pinia | Redux | HTML5 | CSS3  
+
+#### ⚙️ Backend & API  
+Node.js | Express.js | REST APIs | Deno | Java | Python | JWT | Passport | OAuth  
+
+#### 🗄️ Databases & Cloud  
+MongoDB | PostgreSQL | MySQL | Firebase | Redis | SQLite  
+
+#### 🛠 DevOps & Tools  
+Docker | Git | Linux | Postman | Turborepo | pnpm | Webpack | CI/CD basics  
+
+---
+
+### 📈 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alok515&theme=flat&no-frame=true&margin-w=5" />
+</p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok515&show_icons=true&layout=compact" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=alok515&show_icons=true" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alok515" /></p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/alok-kumar-singh-00972717a/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006370421086"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" /></a>
+<a href="https://instagram.com/a_l_o_k__s_i_n_g_h_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCY8YmF-nFZ6SY5eqODmTM9A"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" /></a>
+</p>
+
+📧 Email: **kumarsinghalok28@gmail.com**
+
+---
+
+### 📝 Currently Learning
+
+- Next.js (Fullstack React)
+- Microservice architecture with Node.js
+- Clean code, design system patterns  
+- Fullstack testing (Jest, Vitest, Cypress)
+
+---
+
+### ⚡ Fun Corner  
+When I’m not coding, I enjoy solving logic-based challenges, designing UI/UX layouts, and experimenting with developer productivity automation. Also, I think I'm funny 🙂
+
+---
+
